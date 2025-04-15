@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 91e2a4263ce2eb84fb649f1a87f7bf3b
+  - enabled: 1
+    path: Assets/Scenes/MenuPersonagens.unity
+    guid: 309e375c0fb4dc34f8102aabda3fd18b
+  - enabled: 1
+    path: Assets/Scenes/historia.unity
+    guid: 787368d61f8d84145a30170b68a7ff5b
+  - enabled: 1
+    path: Assets/Scenes/caramelo.unity
+    guid: e97b92b4cb6460c4dbb0b058c833b599
+  - enabled: 1
+    path: Assets/Scenes/corredor principal.unity
+    guid: 87940e7bb0d3f594bb19801178c39952
+  - enabled: 1
+    path: Assets/Scenes/CorredorBifurcacao.unity
+    guid: 049e26e8f7776154f88e51083db06ad3
+  - enabled: 1
+    path: Assets/Scenes/BatalhaDireita.unity
+    guid: 0bf45840d986a0a4cb86b76d5c454dd9
+  - enabled: 1
+    path: Assets/Scenes/CenaDaEsquerda.unity
+    guid: 249d1c197752f0f40b079f6078476371
+  - enabled: 1
+    path: Assets/Scenes/Batalha.unity
+    guid: 15fe34c494caa324aa9c54f4c0346d8c
+  - enabled: 1
+    path: Assets/Scenes/voce morreu.unity
+    guid: 78042975c119b5040b9ef039798d73ab
+  - enabled: 1
+    path: Assets/Scenes/fugir.unity
+    guid: ba728a5d87aeecc419d9eb0f12a26639
+  - enabled: 1
+    path: Assets/Scenes/saindo.unity
+    guid: 73c7a496f720f2e44a4b099a82834a92
+  - enabled: 1
+    path: Assets/Scenes/voceganhou.unity
+    guid: 4389729dc18e29d4583ce7eaadc8be04
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 2ee2d2a80ef1dae41b447497e06fd994
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
