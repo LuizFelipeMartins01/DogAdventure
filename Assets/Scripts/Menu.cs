@@ -91,11 +91,26 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("luta");   
     }
-    public void ()
+    public void fugirr()
     {
         SceneManager.LoadScene("FugirDasIguanas");
     }
-
+    public void u()
+    {
+        SceneManager.LoadScene("saindo");
+    }
+    public void enfrentar()
+    {
+        SceneManager.LoadScene("EnfrentandoAsIguanas");
+    }
+    public void L()
+    {
+        SceneManager.LoadScene("DerrotandoAsIguanas");
+    }
+    public void h()
+    {
+        SceneManager.LoadScene("saindo");
+    }
     public void continuar()
     {
         SceneManager.LoadScene("voce morreu");

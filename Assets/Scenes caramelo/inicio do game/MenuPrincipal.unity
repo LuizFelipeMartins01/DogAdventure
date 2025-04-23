@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '   Dog adventure'
+  m_text: '   zoo adventure'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8087fae867fed6f45b93e61d03ab2e96, type: 2}
   m_sharedMaterial: {fileID: -3058020275198181657, guid: 8087fae867fed6f45b93e61d03ab2e96, type: 2}

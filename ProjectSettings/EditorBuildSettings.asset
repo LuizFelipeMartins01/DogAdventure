@@ -51,6 +51,12 @@ EditorBuildSettings:
     path: Assets/Scenes caramelo/saindo.unity
     guid: 73c7a496f720f2e44a4b099a82834a92
   - enabled: 1
+    path: Assets/Scenes caramelo/DerrotandoAsIguanas.unity
+    guid: 63b5c671359fd73419abe57251d6b4e4
+  - enabled: 1
+    path: Assets/Scenes caramelo/EnfrentandoAsIguanas.unity
+    guid: 6b7cab17d0ce8964b9de2daa248a0084
+  - enabled: 1
     path: Assets/Scenes caramelo/voceganhou.unity
     guid: 4389729dc18e29d4583ce7eaadc8be04
   - enabled: 1
