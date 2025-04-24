@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -756.65454, y: -454.4352}
-  m_SizeDelta: {x: 240.691, y: 45.1296}
+  m_AnchoredPosition: {x: -439, y: -218.16147}
+  m_SizeDelta: {x: 171.8213, y: 32.3759}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &20574579
 MonoBehaviour:
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6728695073222978005, guid: 5a669388c9a531840b756041981d1084, type: 3}
+  m_Sprite: {fileID: 2137142125821791034, guid: 15b72e344e7a25549bd3182a2a0cdcf1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -351,7 +351,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -713, y: 390}
+  m_AnchoredPosition: {x: -306.73, y: 130}
   m_SizeDelta: {x: 436.3593, y: 206.6876}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &602664641
@@ -374,7 +374,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'hahahaha vice fugiu de um bando de iguanas seu fraco .
+  m_text: 'hahahaha voce fugiu de um bando de iguanas seu fraco .
 
     aperte " u"
     para prosseguir'
@@ -569,8 +569,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 549.9702, y: -247.31778}
-  m_SizeDelta: {x: 605.4677, y: 494.4122}
+  m_AnchoredPosition: {x: 402.63733, y: -36.23153}
+  m_SizeDelta: {x: 295.7253, y: 396.2353}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1274287860
 MonoBehaviour:
@@ -592,7 +592,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8608928156429599328, guid: 74ca6bd085cb0a642905b2d242588e6a, type: 3}
+  m_Sprite: {fileID: 2566444602579245133, guid: be73a1f21c7fed349904c1c958379810, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -635,7 +635,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1645461116}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4494841383a7882409cdf53796f6ad30, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 3427e34accc10ca42bef62b4da8aa9d4, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 1909866206}
@@ -649,12 +649,14 @@ VideoPlayer:
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
-  m_TargetAudioSources: []
-  m_DirectAudioVolumes: []
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
   m_Url: 
-  m_EnabledAudioTracks: 
-  m_DirectAudioMutes: 
-  m_ControlledAudioTrackCount: 0
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
   m_Looping: 1
