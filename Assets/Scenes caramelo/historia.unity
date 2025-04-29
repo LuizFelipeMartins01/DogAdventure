@@ -606,8 +606,8 @@ MonoBehaviour:
     animais do zoologico iam enlouquecer, e agora voce procura um jeito de dar o
     fora da li o mais rapido o possivel.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2ad76c21648df2d4eaacd8594d50d247, type: 2}
+  m_sharedMaterial: {fileID: 2819621625114808326, guid: 2ad76c21648df2d4eaacd8594d50d247, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1149,7 +1149,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1490263641}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 3427e34accc10ca42bef62b4da8aa9d4, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: c92c688256d41d2409d2dd8d431e00c1, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 1942222475}
