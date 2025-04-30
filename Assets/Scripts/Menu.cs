@@ -32,6 +32,11 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("historia");
     }
+    public void SelecaoCaramelo()
+    {
+       TocarSom();
+        Invoke("caramelo", 1.5f);
+    }
     public void caramelo()
     {
         SceneManager.LoadScene("historia");

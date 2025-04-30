@@ -604,7 +604,7 @@ MonoBehaviour:
     mais um dia amanhece voce pensa que e so mais um dia normal em
     sua vida no zoologico de sorocaba, mas o que voce nao esperava era que os outros
     animais do zoologico iam enlouquecer, e agora voce procura um jeito de dar o
-    fora da li o mais rapido o possivel.'
+    fora da li o mais rapido o possivel......'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2ad76c21648df2d4eaacd8594d50d247, type: 2}
   m_sharedMaterial: {fileID: 2819621625114808326, guid: 2ad76c21648df2d4eaacd8594d50d247, type: 2}
@@ -959,7 +959,7 @@ MonoBehaviour:
     mais um dia amanhece voce pensa que e so mais um dia normal
     em sua vida no zoologico de sorocaba, mas o que voce nao esperava era que os
     outros animais do zoologico iam enlouquecer, e agora voce procura um jeito de
-    dar o fora da li o mais rapido o possivel.'
+    dar o fora da li o mais rapido o possivel.......'
   velocidadeDigitacao: 0.03
 --- !u!4 &982834192
 Transform:
